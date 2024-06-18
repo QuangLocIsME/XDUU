@@ -10,7 +10,7 @@
 <div style="font-family: Arial, sans-serif; line-height: 1.5;">
 
   <p style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
-    <strong>Hồ Sĩ Hào</strong> (Leader - Web Frontend and Backend)
+    <strong>Hồ Sỹ Hào</strong> (Leader - Web Frontend and Backend)
   </p>
 
   <p style="background-color: #e0e0e0; padding: 10px; border-radius: 5px;">

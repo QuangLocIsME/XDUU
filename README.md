@@ -14,3 +14,9 @@ Giảng Viên Giảng Dạy Hướng Dẫn : <b>Huỳnh Phước Danh </b>
 <p>
   <b>Nguyễn Huy</b>
 </p>
+### Ngôn Ngữ Lập Trình:
+Frontend : Reactjs
+Backend  : Nodejs
+Database : MongoDB
+
+

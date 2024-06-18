@@ -1,8 +1,9 @@
 # Xây Dựng Ứng Dụng Phần Mềm 
 
 Đồ Án Xây Dựng Ứng Dụng Website (Kì Hè Năm 2 "June 2024") 
-Giảng Viên : <b>Huỳnh Phước Danh </b>
-
+<p>
+Giảng Viên Giảng Dạy Hướng Dẫn : <b>Huỳnh Phước Danh </b>
+</p>
 ## Thành Viên:
 <p>
   <b>Hồ Sĩ Hào</b> (Leader - Web Frontend and Backend)

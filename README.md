@@ -1,5 +1,7 @@
-# XDUU
-Đồ Án Xây Dựng Ứng Dụng Website (Kì Hè Năm 2 "June 2024")
+# Xây Dựng Ứng Dụng Phần Mềm 
+
+Đồ Án Xây Dựng Ứng Dụng Website (Kì Hè Năm 2 "June 2024") 
+Giảng Viên : <b>Huỳnh Phước Danh </b>
 
 ## Thành Viên:
 <p>
